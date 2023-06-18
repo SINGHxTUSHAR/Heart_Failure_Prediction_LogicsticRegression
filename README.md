@@ -13,7 +13,7 @@
 --------------------------------------------------------------THEORY------------------------------------------------------------------------------------
 
 
-Created a heart failure prediction model which will predict the heart failure based on the age and other attributes. I have used a data set of around 910 data points.
+Created a heart failure prediction model which will predict the heart failure based on the age and other attributes. I have used a data set of around 300 data points.
 
 The accuracy achieved is 84.69% by using the Logistic Regression. The accuracy can be easily increases by increasing the data points or entities.
 
