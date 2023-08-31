@@ -13,11 +13,11 @@
 --------------------------------------------------------------THEORY------------------------------------------------------------------------------------
 
 
-Created a heart failure prediction model which will predict the heart failure based on the age and other attributes. I have used a data set of around 300 data points.
+I have created a heart failure prediction model that will predict heart failure based on age and other attributes. I have used a data set of around 300 data points.
 
-The accuracy achieved is 84.69% by using the Logistic Regression. The accuracy can be easily increases by increasing the data points or entities.
+The accuracy achieved is 84.69% by using the Logistic Regression. The accuracy can be quickly increased by increasing the data points or entities.
 
-Different libraries are used in this model to import different methods like Histogram , list , array and many different methods. Some of these libraries were:
+Different libraries are used in this model to import different methods like Histogram, list, array, and many different methods. Some of these libraries were:
 * pandas
 * numpy
 * matplotlib
@@ -25,11 +25,11 @@ Different libraries are used in this model to import different methods like Hist
 * sklearn
 
 
-The dataset is divided or split like 30% to 70% for the testing data and training data respectively.
+The dataset is divided or split from 30% to 70% for the testing and training data respectively.
 
-Model training is done by using the Logistic regression with the balanced data and also the model evaluation is performed considering the accuracy score as the evaluation metrics
+Model training is done by using the Logistic regression with the balanced data and the model evaluation is performed considering the accuracy score as the evaluation metrics
 
-Data visualization is done using the seaborn and matplotlib libraries.
+Data visualization is done using the seaborn and Matplotlib libraries.
 
 -----------------------------------------------------------------------------THANKS_FOR_VISITING------------------------------------------------------
 
